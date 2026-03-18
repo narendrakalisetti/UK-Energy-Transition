@@ -1,6 +1,6 @@
 # ⚡ UK Energy Transition & Carbon Analytics
 
-![Energy Banner](images/energy_banner.png)
+![Energy Banner](energy_banner.png)
 
 > **Comprehensive analytics project** tracking the UK's transition to net-zero: renewable energy generation, carbon emissions by sector, grid stability, and progress against Climate Change Act targets.
 
