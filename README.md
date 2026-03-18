@@ -10,7 +10,7 @@
 
 ![Dashboard Overview](energy_dashboard.png)
 ![Renewables Growth](renewables_growth.png)
-![Carbon by Sector](images/carbon_sector.png)
+![Carbon by Sector](carbon_sector.png)
 
 ---
 
