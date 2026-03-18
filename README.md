@@ -9,7 +9,7 @@
 ## 📊 Power BI Dashboard Preview
 
 ![Dashboard Overview](energy_dashboard.png)
-![Renewables Growth](images/renewables_growth.png)
+![Renewables Growth](renewables_growth.png)
 ![Carbon by Sector](images/carbon_sector.png)
 
 ---
